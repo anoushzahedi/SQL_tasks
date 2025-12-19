@@ -14,3 +14,12 @@ You're working for a company that sells motorcycle parts, and they've asked for 
 ## (3) Window fucntion and common_table_expression
 When factoring heat generation required for the manufacturing and transportation of products, Greenhouse gas emissions attributable to products, from food to sneakers to appliances, make up more than 75% of global emissions. (Source: The Carbon Catalogue https://www.nature.com/articles/s41597-022-01178-9).<br/>
 Our data, which is publicly available on nature.com, contains product carbon footprints (PCFs) for various companies. PCFs are the greenhouse gas emissions attributable to a given product, measured in CO2 (carbon dioxide equivalent). You'll use this data to examine the carbon footprint of each industry in the dataset!
+## (4) Join with common_table_expression
+GoodThought NGO has been a catalyst for positive change, focusing its efforts on education, healthcare, and sustainable development to make a significant difference in communities worldwide. This project offers a hands-on opportunity to explore how data-driven insights can direct and enhance these humanitarian efforts. You will execute SQL queries to answer two questions:<br/>
+1. List the top five assignments based on the total value of donations, categorized by donor type.<br/>
+2. Identify the assignment with the highest impact score in each region, ensuring that each listed assignment has received at least one donation.
+## (5) Simple query
+Humans not only take debts to manage necessities. A country may also take debt to manage its economy. In this project, you are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. You are going to find the answers to the following questions:<br/>
+1. What is the number of distinct countries present in the database?<br/>
+2. What country has the highest amount of debt?<br/>
+3. What country has the lowest amount of repayments?
