@@ -23,3 +23,9 @@ Humans not only take debts to manage necessities. A country may also take debt t
 1. What is the number of distinct countries present in the database?<br/>
 2. What country has the highest amount of debt?<br/>
 3. What country has the lowest amount of repayments?
+
+## (6) [Kaggle_charging_sessions](Kaggle_charging_sessions/)
+
+As electronic vehicles (EVs) become more popular, there is an increasing need for access to charging stations, also known as ports. To that end, many modern apartment buildings have begun retrofitting their parking garages to include shared charging stations. A charging station is shared if it is accessible by anyone in the building.<br/>
+
+But with increasing demand comes competition for these ports — nothing is more frustrating than coming home to find no charging stations available! In this project, you will use a dataset to help apartment building managers better understand their tenants’ EV charging habits.
